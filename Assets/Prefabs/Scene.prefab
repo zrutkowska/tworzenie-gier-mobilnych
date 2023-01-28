@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 122702857776197428}
   - component: {fileID: 122702857776197427}
   - component: {fileID: 122702857776197426}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Scene
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91,7 +91,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 122702857776197425}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 665cad52c07ff4e8a8ffdcc3048f589b, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
