@@ -5,6 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class PlayerLife : MonoBehaviour
 {
+    [SerializeField] AudioSource deathSounds;
+
     bool dead = false;
 
     private void Update()
@@ -30,6 +32,7 @@ public class PlayerLife : MonoBehaviour
     {
         Invoke(nameof(ReloadLevel), 1.3f);
         dead = true;
+        deathSounds.Play();
     }
 
     void ReloadLevel()

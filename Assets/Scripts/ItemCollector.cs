@@ -9,6 +9,8 @@ public class ItemCollector : MonoBehaviour
 
     [SerializeField] TextMeshProUGUI coinsText;
 
+    [SerializeField] AudioSource collectionSound;
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("Coin"))
@@ -16,6 +18,7 @@ public class ItemCollector : MonoBehaviour
             Destroy(other.gameObject);
             coins++;
             coinsText.text = "Coins: " + coins;
+            collectionSound.Play();
         }
     }
 }
