@@ -1,0 +1,12 @@
+# Lista Tutoriali Z Których Korzystałam
+- https://www.youtube.com/watch?v=n0GQL5JgJcY
+- https://www.youtube.com/watch?v=54qz4SyQWZM
+- https://www.youtube.com/watch?v=HmouLR4X47I&t=974s
+- https://www.youtube.com/watch?v=Ekfio0gfn-Y&t=919s
+- https://www.youtube.com/watch?v=dWtjKKR7Q3s
+- https://www.youtube.com/watch?v=B90r-209vYk
+- https://www.youtube.com/watch?v=YQEq6Lkd69c&t=7s
+- https://www.youtube.com/watch?v=Gs5QxGrRzNQ&t=703s
+- https://www.youtube.com/watch?v=Va90Uf28Tg8
+- https://www.youtube.com/watch?v=1Ye-mCuIIdw&t=23s
+- https://www.youtube.com/watch?v=zc8ac_qUXQY
